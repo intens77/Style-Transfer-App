@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="instruction">Choose photos from gallery</string>
+    <string name="button_choose_photo">Take photo</string>
+    <string name="button_choose_photo_style">Take style</string>
+</resources>
